@@ -1,5 +1,5 @@
-## Đặng Anh Tài
-# MSV: 22810310385
+## Nguyễn Đình Cường
+# MSV: 22810310372
 # Sử dụng State
 # Kết quả:
 ![Kết quả](State.jpg)
